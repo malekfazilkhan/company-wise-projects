@@ -2,7 +2,7 @@
 
 | **Day**         | **1st Year** Tasks                         | **2nd Year** Tasks                              | **3rd Year** Tasks                             |
 |------------------|-------------------------------------------|------------------------------------------------|------------------------------------------------|
-| **Day 1-2**     | ✅ Learn HTML & CSS basics.<br>✅ Build a static portfolio website. | ✅ Review HTML & CSS.<br>✅ Build a blog landing page. | ✅ Learn React.js basics & Tailwind CSS.<br>✅ Build a dashboard UI. |
+| **Day 1-2**     | ✅ Learn HTML & CSS basics.<br>✅ Build your static portfolio website. | ✅ Review HTML & CSS.<br>✅ Build a blog landing page. | ✅ Learn React.js basics & Tailwind CSS.<br>✅ Build a dashboard UI. |
 | **Day 3-4**     | ✅ Learn JavaScript basics.<br>✅ Build a counter app. | ✅ Learn advanced JavaScript.<br>✅ Build a to-do list app. | ✅ Master advanced JavaScript.<br>✅ Integrate API calls into the dashboard. |
 | **Day 5-6**     | ✅ Solve 10 easy DSA problems (Arrays, Strings). | ✅ Solve 10 moderate DSA problems (Arrays, Strings). | ✅ Solve 10 moderate DSA problems (two-pointer, sliding window). |
 | **Day 7**       | ✅ Host the portfolio website.             | ✅ Push & host the to-do list app.              | ✅ Start full-stack expense tracker app (frontend). |
